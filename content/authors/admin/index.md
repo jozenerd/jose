@@ -1,6 +1,6 @@
 ---
 # Display name
-title: José Fernando Guarín Montoya
+title: Jose-Guarin
 
 # Is this the primary user of the site?
 superuser: true
